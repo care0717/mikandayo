@@ -1,3 +1,5 @@
 mnt
 disk.img
 .devcontainer
+*.elf
+*.o
